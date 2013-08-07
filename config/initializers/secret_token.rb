@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Rails3MongoidOmniauth::Application.config.secret_key_base = '876b84d8ede818ded20d24a25eb8d2a7bc5e159248e8b3d556239b300365bb9d0f2579da938d2f0c9e4a6cfe8572cd6d006f75d3ba108aaa713cf8ea620f392c'
+Rails3MongoidOmniauth::Application.config.secret_key_base = '5fd232319a6c8b59fa14a9b3a43a161d348446175e6937cc368ab61b6b7b1e7cdce999d2c432bc61ef6bcd524a6a23a563a0b120e881afe5f7b4e5b90e0194e6'
